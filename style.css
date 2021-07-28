@@ -1,0 +1,51 @@
+h2{
+	color: #FFF;
+	
+}
+body {
+	background-color: #424242;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 85vh;
+	width: 100vw;
+}
+
+#container{
+    background-color: lightslategray;
+}
+
+#display{
+    width: 175px;
+    height: 35px;
+    font-size: 22px;
+    text-align: end;
+    font-weight: bold;
+}
+
+.button {
+    width: 42px;
+	height: 42px;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 4px;
+}
+
+.mathButtons{
+    color: #FFF;
+    background-color: black;
+}
+
+
+.clearButton {
+	color: #FFF;
+	background-color: #D20000;
+	
+}
+
+.button:hover{
+	background-color: #FFBA75;
+}
